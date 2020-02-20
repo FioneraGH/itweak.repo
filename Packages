@@ -17,3 +17,19 @@ Description: Multi Tweaks on a jailbroken iOS 13.2+ iPhone
 Author: fionera
 Name: iTweak
 
+Package: ru.domo.cocoatop
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Fionera
+Installed-Size: 712
+Depends: firmware (>= 13.0)
+Filename: ./debs/ru.domo.cocoatop_2.1.1_iphoneos-arm.deb
+Size: 142496
+MD5sum: e805cf3ed5766fa5526fe7a958cffd18
+SHA1: 43803d981609e803c27bd2fb25f804e2f182684f
+SHA256: ebc25f088669e48f49ceba88cebd11eada5873b8d7aaa3c5267baea268d79634
+Section: Utilities
+Description: Process Viewer for iOS GUI
+Author: Domo
+Name: CocoaTop
+
