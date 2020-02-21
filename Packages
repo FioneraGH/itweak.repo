@@ -26,10 +26,10 @@ Depends: mobilesubstrate, preferenceloader
 Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Provides: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Filename: ./debs/com.fionera.itweak_1.2.3_iphoneos-arm.deb
-Size: 15082
-MD5sum: 10afc450117f37c67d80f4d90d1c10e4
-SHA1: bc76b9331aac15b21bcf416c2d54f06a01d5b2a0
-SHA256: 629b49cdcebcd151d8123e2fecb6627fcfd1a5e47f7043640649b767e30d614e
+Size: 15096
+MD5sum: 82315d0561cc86b93e4de0f4422fa4fe
+SHA1: 0f1134dd793c91cb68cab98b8860afcc38d4fb55
+SHA256: e44283a5e39e964827c0697a46abdf1d1a85e702080ecf91ad56da36d28c3fe7
 Section: Tweaks
 Description: Multi Tweaks on a jailbroken iOS 13.2-13.3.1 iPhone
 Author: fionera
