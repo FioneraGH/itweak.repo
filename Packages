@@ -17,6 +17,24 @@ Description: Multi Tweaks on a jailbroken iOS 13.2+ iPhone
 Author: fionera
 Name: iTweak
 
+Package: com.fionera.itweak
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: fionera
+Installed-Size: 204
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Provides: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Filename: ./debs/com.fionera.itweak_1.2.3_iphoneos-arm.deb
+Size: 15082
+MD5sum: 10afc450117f37c67d80f4d90d1c10e4
+SHA1: bc76b9331aac15b21bcf416c2d54f06a01d5b2a0
+SHA256: 629b49cdcebcd151d8123e2fecb6627fcfd1a5e47f7043640649b767e30d614e
+Section: Tweaks
+Description: Multi Tweaks on a jailbroken iOS 13.2-13.3.1 iPhone
+Author: fionera
+Name: iTweak
+
 Package: ru.domo.cocoatop
 Version: 2.1.1
 Architecture: iphoneos-arm
