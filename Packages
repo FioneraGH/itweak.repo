@@ -103,3 +103,19 @@ Description: Process Viewer for iOS GUI
 Author: Domo
 Name: CocoaTop
 
+Package: ru.domo.cocoatop
+Version: 2.1.3
+Architecture: iphoneos-arm
+Maintainer: Fionera
+Installed-Size: 712
+Depends: firmware (>= 13.0)
+Filename: ./debs/ru.domo.cocoatop_2.1.3_iphoneos-arm.deb
+Size: 142066
+MD5sum: f9741ce399ce88b868481e102fa4b870
+SHA1: ad885e68d885a61e744654a7bb51eec51d61fdda
+SHA256: 3f61abfe0d89a7dd05268b9b4a14cdc01ae67842e5ba9487a4a341af9e7d2334
+Section: Utilities
+Description: Process Viewer for iOS GUI
+Author: Domo
+Name: CocoaTop
+
